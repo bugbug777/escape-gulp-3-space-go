@@ -4,7 +4,7 @@
 
 本專案是使用 `gulp 3.9.1`
 
-```
+```=shell
 npm install gulp -g
 ```
 
@@ -12,7 +12,7 @@ npm install gulp -g
 
 請依序執行以下指令來執行 gulp。
 
-```
+```=shell
 npm install
 gulp
 ```
@@ -20,4 +20,3 @@ gulp
 ### CSS
 
 CSS 採用 `Bootstrap 4` 框架，並使用 gulp 編譯。
-
